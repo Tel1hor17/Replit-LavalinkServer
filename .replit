@@ -1,1 +1,3 @@
+language = "blankrepl"
+
 run="bash start.sh"
